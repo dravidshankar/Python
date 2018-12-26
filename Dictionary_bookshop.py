@@ -5,7 +5,7 @@ Program to do:
     1. Add books into bookshop 
     2. Sell books from bookshop
 """
-bookshop={}#initialize empt dictionary
+bookshop={}#initialize empty dictionary
 while True:
     print("Enter any option: 1. Add, 2. Sell, 3. Finish")
     choice=int(input())
